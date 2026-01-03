@@ -26,6 +26,6 @@ publish:
 all: $(DOCS) publish
 
 clean:
-	rm -f src/*log src/*aux
+	rm -f *log *aux
 
 .PHONY: sarali
