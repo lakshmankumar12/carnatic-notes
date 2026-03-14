@@ -25,7 +25,8 @@ alangaram:
 	$(call build_doc,alangaram,$(alangaram_infile))
 
 publish:
-	cp src/*pdf docs/
+	cp ./*pdf docs/
+	python generate_pdf_index.py
 
 # Build all documents
 all: $(DOCS) publish

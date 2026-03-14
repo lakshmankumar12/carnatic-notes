@@ -1,4 +1,5 @@
 *.pdf
+!docs/*.pdf
 *.aux
 *.log
 *.epub
