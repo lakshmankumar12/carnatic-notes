@@ -1,0 +1,64 @@
+\documentclass[12pt]{article}
+\title{Daatu Varise}
+\author{Carnatic}
+\date{\today}
+% you can set margin=0cm if you absolutely want no margin
+\usepackage[a4paper, margin=1cm, right=0.5cm]{geometry}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{titlesec}
+
+\titlespacing*{\section}{0pt}{1pt}{1pt}
+\titlespacing*{\subsection}{0pt}{-20pt}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+\titleformat{\subsection}{\small\bfseries}{\thesubsection}{0.5em}{}
+
+% Remove headers and footers
+\pagestyle{empty}
+
+% Set Devanagari as main font
+\setmainfont{Noto Sans}
+\setmonofont{Noto Sans Mono}
+\newfontfamily\devanagarifont{Noto Sans Devanagari}
+\newcommand{\df}[1]{{\devanagarifont#1}}
+
+\begin{document}
+% The first number (24) is the font size in points
+% The second number (36) is the baseline skip - the distance between lines, also in points
+\fontsize{18}{21}\selectfont
+
+\section{Daatu Varise}
+\subsection{Pattern - 1-2-3-2}
+\texttt{S~R~G~R~\df{।}~S~R~\df{।}~G~M~\df{॥}~~R~G~M~G~\df{।}~R~G~\df{।}~M~P~\df{॥}}\\
+\texttt{G~M~P~M~\df{।}~G~M~\df{।}~P~D~\df{॥}~~M~P~D~P~\df{।}~M~P~\df{।}~D~N~\df{॥}}\\
+\texttt{P~D~N~D~\df{।}~P~D~\df{।}~N~Ṡ~\df{॥}~~Ṡ~N~D~N~\df{।}~Ṡ~N~\df{।}~D~P~\df{॥}}\\
+\texttt{N~D~P~D~\df{।}~N~D~\df{।}~P~M~\df{॥}~~D~P~M~P~\df{।}~D~P~\df{।}~M~G~\df{॥}}\\
+\texttt{P~M~G~M~\df{।}~P~M~\df{।}~G~R~\df{॥}~~M~G~R~G~\df{।}~M~G~\df{।}~R~S~\df{॥}}\\
+\subsection{Pattern - 1-3-2-3}
+\texttt{S~G~R~G~\df{।}~S~R~\df{।}~G~M~\df{॥}~~R~M~G~M~\df{।}~R~G~\df{।}~M~P~\df{॥}}\\
+\texttt{G~P~M~P~\df{।}~G~M~\df{।}~P~D~\df{॥}~~M~D~P~D~\df{।}~M~P~\df{।}~D~N~\df{॥}}\\
+\texttt{P~N~D~N~\df{।}~P~D~\df{।}~N~Ṡ~\df{॥}~~Ṡ~D~N~D~\df{।}~Ṡ~N~\df{।}~D~P~\df{॥}}\\
+\texttt{N~P~D~P~\df{।}~N~D~\df{।}~P~M~\df{॥}~~D~M~P~M~\df{।}~D~P~\df{।}~M~G~\df{॥}}\\
+\texttt{P~G~M~G~\df{।}~P~M~\df{।}~G~R~\df{॥}~~M~R~G~R~\df{।}~M~G~\df{।}~R~S~\df{॥}}\\
+\subsection{Pattern - 1-4-3-4}
+\texttt{S~M~G~M~\df{।}~S~R~\df{।}~G~M~\df{॥}~~R~P~M~P~\df{।}~R~G~\df{।}~M~P~\df{॥}}\\
+\texttt{G~D~P~D~\df{।}~G~M~\df{।}~P~D~\df{॥}~~M~N~D~N~\df{।}~M~P~\df{।}~D~N~\df{॥}}\\
+\texttt{P~Ṡ~N~Ṡ~\df{।}~P~D~\df{।}~N~Ṡ~\df{॥}~~Ṡ~P~D~P~\df{।}~Ṡ~N~\df{।}~D~P~\df{॥}}\\
+\texttt{N~M~P~M~\df{।}~N~D~\df{।}~P~M~\df{॥}~~D~G~M~G~\df{।}~D~P~\df{।}~M~G~\df{॥}}\\
+\texttt{P~R~G~R~\df{।}~P~M~\df{।}~G~R~\df{॥}~~M~S~R~S~\df{।}~M~G~\df{।}~R~S~\df{॥}}\\
+\subsection{Pattern - 4-3-2-3}
+\texttt{M~G~R~G~\df{।}~S~R~\df{।}~G~M~\df{॥}~~P~M~G~M~\df{।}~R~G~\df{।}~M~P~\df{॥}}\\
+\texttt{D~P~M~P~\df{।}~G~M~\df{।}~P~D~\df{॥}~~N~D~P~D~\df{।}~M~P~\df{।}~D~N~\df{॥}}\\
+\texttt{Ṡ~N~D~N~\df{।}~P~D~\df{।}~N~Ṡ~\df{॥}~~P~D~N~D~\df{।}~Ṡ~N~\df{।}~D~P~\df{॥}}\\
+\texttt{M~P~D~P~\df{।}~N~D~\df{।}~P~M~\df{॥}~~G~M~P~M~\df{।}~D~P~\df{।}~M~G~\df{॥}}\\
+\texttt{R~G~M~G~\df{।}~P~M~\df{।}~G~R~\df{॥}~~S~R~G~R~\df{।}~M~G~\df{।}~R~S~\df{॥}}\\
+\subsection{Pattern - 1-3-2-4}
+\texttt{S~G~R~M~\df{।}~S~R~\df{।}~G~M~\df{॥}~~R~M~G~P~\df{।}~R~G~\df{।}~M~P~\df{॥}}\\
+\texttt{G~P~M~D~\df{।}~G~M~\df{।}~P~D~\df{॥}~~M~D~P~N~\df{।}~M~P~\df{।}~D~N~\df{॥}}\\
+\texttt{P~N~D~Ṡ~\df{।}~P~D~\df{।}~N~Ṡ~\df{॥}~~Ṡ~D~N~P~\df{।}~Ṡ~N~\df{।}~D~P~\df{॥}}\\
+\texttt{N~P~D~M~\df{।}~N~D~\df{।}~P~M~\df{॥}~~D~M~P~G~\df{।}~D~P~\df{।}~M~G~\df{॥}}\\
+\texttt{P~G~M~R~\df{।}~P~M~\df{।}~G~R~\df{॥}~~M~R~G~S~\df{।}~M~G~\df{।}~R~S~\df{॥}}\\
+\end{document}

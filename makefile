@@ -1,11 +1,10 @@
 srcdir=$(PWD)
 
 # Document definitions
-DOCS := sooktas mahanyasam stotrams upanishads
+DOCS := sarali dattu alangaram
 sarali_infile := sarali.tex
-mahanyasam_infile := mahanyasam.tex
-stotrams_infile := stotrams.tex
-upanishads_infile := upanishads.tex
+dattu_infile := dattu.tex
+alangaram_infile := alangaram.tex
 
 # Generic function to build any document
 define build_doc
@@ -18,6 +17,12 @@ endef
 # Individual targets
 sarali:
 	$(call build_doc,sarali,$(sarali_infile))
+
+dattu:
+	$(call build_doc,dattu,$(dattu_infile))
+
+alangaram:
+	$(call build_doc,alangaram,$(alangaram_infile))
 
 publish:
 	cp src/*pdf docs/
