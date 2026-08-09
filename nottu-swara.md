@@ -1,4 +1,4 @@
-# Shakti Sahita Ganapatim - Swara & Sahitya Notation
+# 1. Shakti Sahita Ganapatim - Swara & Sahitya Notation
 
 ```
 G g        | g m g     | r s r       | S ,     | Ṇ s      | R ṇ        | S r        | G s      |
@@ -15,7 +15,7 @@ bhu kti muk| ti pra dam| bhU shi tAn | gam ,   | rak ta pa| dAm bu jam | bhA va 
 
 ```
 
-# Rama Janardhana
+# 2. Rama Janardhana
 
 ```
 p p g      | p m r     | m g m     | p d n   | ṡ p d    | p m g    | r g r     | R ,  |
@@ -32,7 +32,7 @@ SyAmaLa    | vigraha   | Santa-gu  | ru guha | sannuta  | SrI rAma | candra-pra|
 
 ```
 
-# Rama Chandram
+# 3. Rama Chandram
 
 
 ```
@@ -53,6 +53,79 @@ bhUmi-su  | tApaM     | bhUpati   | rUpaM    | kOmaLa   | pallava   | pAdAm    |
 
 Ppp       | DD        | PN        | Ṡ;       | Ppp      | DD        | PN       | Ṡ;      |
 kAma-gu   | ruM-sI    | tA-rA     | maM      | kaustubha| bhUshaM   | vandE    | (a)ham  |
+
+```
+
+# 4. Vande minakshi
+
+```
+SG      | SG       | SG        | mgrs     | ṆR         | ṆR        | ṆR    | grsṇ      |
+vandE   | mInA     | kshi-tvAM | sarasija | vaktrE     | (a)parNE  | durgE | nata sura |
+
+
+SG      | SG       | srgm      | P;       | mgrs       | grsṇ      | S;    | ;;        |
+bRndE   | (a)saktE | guru guha | pA       | lini-jala  | ruha-cara | NE.   | ..        |
+
+
+Śnd     | PM       | GM        | PD       | Śnd        | PM        | P;    | ;;        |
+sundara | pANDyA   | nandE     | mAyE     | sUri-ja    | nAdhA     | rE.   | ..        |
+
+
+Śnd     | Ppm      | Gmm       | PD       | mgrs       | grsṇ      | S;    | ;;        |
+sundara | rAja-sa  | hOdari    | gauri    | Subha-kari | satatAM-a | ham.  | ..        |
+
+```
+
+# 5. Sadhashiva jaye
+
+```
+sR-g      | G R       | S;        | rgM       | rgmg       | rgmg      | R;         | rs Ṇ    |
+sadA-Si   | va-jA     | yE        | vijayE    | sarasija   | pada-yuga | LE.        | sakaLE  |
+
+srgm      | DN        | DM        | grsṇ      | SP         | S-rg      | mggr       | rs Ṇ    |
+vadana-ka | rAmbhO    | jE-tA     | raya Siva | vAmAn      | kE-vara   | kara-vidhR | ta SukE |
+
+ddṆ       | dnṡn      | D,n       | Ṡ;        | ṙġ Ṙ       | ṡṙG       | R,ṡ        | N;      |
+sadayE    | guru guha | sEvi      | tE        | SaSi-SE    | khara-saM | bhAvi      | tE      |
+
+ṡRṡ       | nṠn       | dNd       | nṠN       | ṡṡnn       | ddmm      | ggrr       | ss Ṇ    |
+sudhArNa  | va-madhya | gatE(a)ti | lalitE    | Subha-kara | sura nuta | mura hara  | muditE  |
+
+```
+
+# 6. Kanchisham
+
+```
+S     | , p    | , g    | S   | , p     | , g   |
+kAn   | . cI   | . Sa   | M E | . kA    | . mra |
+
+
+gm    | p g    | mg     | R   | sṇ      | ;     |
+nAya  | kaM ni | tyama  | haM | bhajE   | .     |
+
+
+S     | , p    | , g    | S   | , p     | , g   |
+kA    | . mA   | . di   | sha | . TcO   | . ra  |
+
+
+gm    | rs     | , ṇ    | S   | ;       | ;     |
+vRtti | mahaM  | . tya  | jE  | .       | .     |
+
+
+P     | , ṡ    | , n    | D   | pm      | , g   |
+pan   | . cA   | . ksha | ra  | svarU   | . pa  |
+
+
+R     | gm     | , p    | G   | , s     | ;     |
+MA    | gamA   | . nta  | sA  | . ra    | M     |
+
+
+P     | , ṡ    | , n    | D   | p m     | , g   |
+pan   | . cA   | . sya  | M A | di kA   | . ra  |
+
+
+R     | gṇ     | , r    | S   | ,pdn    | S     |
+NaM   | visvE  | . Sva  | raM | .gurugu | ham   |
 
 ```
 
