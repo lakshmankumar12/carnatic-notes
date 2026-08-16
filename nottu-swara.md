@@ -129,3 +129,21 @@ NaM   | visvE  | . Sva  | raM | .gurugu | ham   |
 
 ```
 
+# 7. Vara shiva balam
+
+
+```
+gm   | gm    | D  | P   | G   | P    | M   | R   | M    | G    | S     | S   |
+vara | shiva | bA | lam | va  | lli  | lO  | lam | van  | dE   | nan   | taM |
+
+gm   | gm    | D  | P   | G   | P    | M   | R   | sg   | sg   | S     | ;   |
+hari | hara  | mO | dam | ham | sA   | nan | daM | hasa | samu | khaM  | ;   |
+
+nṡ   | nṡ    | Ġ  | Ṙ   | N   | Ṙ    | Ṡ   | D   | Ṡ    | N    | P     | P   |
+guru | guha  | rU | pam | gup | tA   | kA  | raM | gO   | ra   | kshaM | taM |
+
+nṡ   | nṡ    | Ġ  | Ṙ   | N   | Ṙ    | Ṡ   | D   | pd   | pd   | Ṡ     | ;   |
+sura | pati  | sE | naM | su  | brah | man | yaM | sura | vinu | tam   | ;   |
+
+```
+
