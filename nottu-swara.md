@@ -147,3 +147,14 @@ sura | pati  | sE | naM | su  | brah | man | yaM | sura | vinu | tam   | ;   |
 
 ```
 
+# 8. Anjeneyam
+
+```
+s r g g m r    | r s n s , ,       | s r g g m r        | r s d p , ,   |
+ānjanēyam sadā | bhāvayāmi         | apramēyam mudā     | chintayāmi    |
+
+p g p d p d    | g s g p g s       | g p d s d p        | g s d p , ,   |
+anjanānandanam | vānara sham varam | pancha vakram surē | shādi vandyam |
+
+```
+
